@@ -1,0 +1,3 @@
+
+ Diário 1: aprendi a ler arquivo.
+ Diário 2: aprendi a gravar arquivo.
